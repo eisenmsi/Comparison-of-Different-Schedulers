@@ -1,5 +1,7 @@
 # Comparison of Different Schedulers
 
+Comparison of different schedulers as used for example at StableDiffusion
+
 ## Different schedulers.py
 
 This file can be used to investigate different schedulers
